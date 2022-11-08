@@ -1,6 +1,6 @@
 ## TRILHA: DESENVOLVIMENTO WEB (INICIAL)
 
-###Olá Devs!👋 Estamos tão felizes que você está aqui.
+### Olá Devs!👋 Estamos tão felizes que você está aqui.
 
 
 <img align="right" width="600px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/117736787/200571497-21b395cf-2694-471c-bc96-847853d5b560.png">
