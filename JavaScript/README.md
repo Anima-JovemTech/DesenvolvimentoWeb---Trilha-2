@@ -7,6 +7,7 @@ Como linguagem de programação, o JavaScript é fácil de aprender devido à su
 O JavaScript foi originalmente criado para implementar recursos interativos em páginas da web.
 
 Em nosso módulo introdutório ao JavaScript, reforçamos conceitos como:
+<img align="right" width="600px" style="margin-top:-40px" src="https://user-images.githubusercontent.com/117736787/205658077-b0c47f45-e723-4beb-ba4e-14852d5cedaa.png">
 
 <div display="inline-block">
  <p align="left">✔️ Lógica de programação</p>
@@ -20,7 +21,8 @@ Em nosso módulo introdutório ao JavaScript, reforçamos conceitos como:
  <p align="left">✔️ Funções,</p>
  <p align="left">✔️ Eventos</p>
 </div>
-, tabelas verdade, tipos primitivos e começamos a adicionar interação às páginas criadas em HTML.
+
+
 
 
 
