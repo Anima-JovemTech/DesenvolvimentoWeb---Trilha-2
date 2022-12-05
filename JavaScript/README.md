@@ -17,7 +17,7 @@ Em nosso módulo introdutório ao JavaScript, reforçamos conceitos como:
  <p align="left">✔️ Concatenação com variáveis,</p>
  <p align="left">✔️ Interpolação de Strings,</p>
  <p align="left">✔️ Declarações Condicionais</p>
-  <p align="left">✔️Instrutura de repetição,</p>
+  <p align="left">✔️Estrutura de repetição,</p>
  <p align="left">✔️ Funções,</p>
  <p align="left">✔️ Eventos</p>
 </div>
