@@ -8,4 +8,4 @@
 
 Sabemos como pode ser difícil iniciar um novo projeto, especialmente quando você está aprendendo uma nova linguagem ou framework.
 É por isso que reunimos este repositório de recursos para ajudá-lo a começar.
-Aqui estão todos os exercicios resolvidos e comentados de HTML,CSS e JavaScrip.
+Aqui estão todos os exercicios resolvidos e comentados de HTML,CSS e JavaScript.
